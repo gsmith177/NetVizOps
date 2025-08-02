@@ -4,7 +4,7 @@ This is a simple project I am making to use multiple new networking tools I have
 
 ## Roadmap:
 I plan to handle each step in about a week or two depending on how difficult they become. My estimate for project completion is about 6 weeks maybe more. I hope to be done by some time in September. 
-### Step 0:Environment Setup:
+### Step 0: Environment Setup:
 - Instal VirtualBox and set up 3 Ubuntu VMs to simulate traffic with
 - Instal Docker + Docker compose
 - Create Github repo
